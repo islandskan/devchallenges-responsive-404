@@ -24,8 +24,8 @@ My first [devchallenges](https://devchallenges.io/) challenge in the _"Responsiv
 **The challenge:**<br>
 Create a 404 not found page following the design. The page should be responsive. Don’t look at the existing solution. Fulfill user stories. <br>
 
-**User story:** <br>Create a 404 not found page following the design. The page should be responsive. Don’t look at the existing solution. Fulfill user stories below:
-The page looks like the given design.<br>
+**User story:** <br>
+Create a 404 not found page following the design. 
 
 <hr>
 
