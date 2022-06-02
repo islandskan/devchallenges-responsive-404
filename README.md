@@ -62,5 +62,5 @@ I also enjoyed working with the README as a part of the workflow, and I got to r
 
 ## Contact
 
-- GitHub [@islandskan](https://{github.com/your-usermame})
+- GitHub [@islandskan](https://github.com/islandskan)
 - LinkedIn [@Sigridur Eggertsdottir](https://www.linkedin.com/in/sigridureggertsdottir/)
