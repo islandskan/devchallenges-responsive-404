@@ -4,18 +4,18 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+-   [Overview](#overview)
+-   [Built With](#built-with)
+-   [Features](#features)
+-   [Contact](#contact)
+-   [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](./404_page_mobile.png)
-![screenshot](404_page_desktop.png)
+![screenshot](mobile-preview.png)
+![screenshot](desktop-preview.png)
 
 <hr>
 
@@ -25,7 +25,7 @@ My first [devchallenges](https://devchallenges.io/) challenge in the _"Responsiv
 Create a 404 not found page following the design. The page should be responsive. Don’t look at the existing solution. Fulfill user stories. <br>
 
 **User story:** <br>
-Create a 404 not found page following the design. 
+Create a 404 not found page following the design.
 
 <hr>
 
@@ -42,25 +42,25 @@ I also enjoyed working with the README as a part of the workflow, and I got to r
 
 ### Built With
 
-- Just HTML and CSS
-- [Google fonts: Inconsolata, Montserrat, and Space Mono](https://fonts.google.com/)
+-   Just HTML and CSS
+-   [Google fonts: Inconsolata, Montserrat, and Space Mono](https://fonts.google.com/)
 
 ## Features
 
-- This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+-   This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
-- The application/site is created as a "mobile-first" and responsive layout, with major breakpoints at 375 px, 768px, and 1024px and more.
+-   The application/site is created as a "mobile-first" and responsive layout, with major breakpoints at 375 px, 768px, and 1024px and more.
 
-- Other than the user stories, I added transitions on the button and the link to my github account
+-   Other than the user stories, I added transitions on the button and the link to my github account
 
 ## Acknowledgements
 
-- [Top 5 free hosting sites with instructions](https://blogs.devchallenges.io/posts/tJ26U8MhZTPgBSRSwpqr)
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+-   [Top 5 free hosting sites with instructions](https://blogs.devchallenges.io/posts/tJ26U8MhZTPgBSRSwpqr)
+-   [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
+-   [Node.js](https://nodejs.org/)
+-   [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
-- GitHub [@islandskan](https://github.com/islandskan)
-- LinkedIn [@Sigridur Eggertsdottir](https://www.linkedin.com/in/sigridureggertsdottir/)
+-   GitHub [@islandskan](https://github.com/islandskan)
+-   LinkedIn [@Sigridur Eggertsdottir](https://www.linkedin.com/in/sigridureggertsdottir/)
