@@ -64,3 +64,9 @@ I also enjoyed working with the README as a part of the workflow, and I got to r
 
 -   GitHub [@islandskan](https://github.com/islandskan)
 -   LinkedIn [@Sigridur Eggertsdottir](https://www.linkedin.com/in/sigridureggertsdottir/)
+
+Updates:
+
+> Updated the page 2022-10-02
+>
+> > Fixing the view height of the page
